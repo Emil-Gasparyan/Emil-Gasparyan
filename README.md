@@ -6,7 +6,7 @@ Currently building **Morning Desk**, a personalized daily news podcast.
 
 ## Projects
 
-### [Morning Desk](https://github.com/emilgasparyan-droid/morning-desk)
+### [Morning Desk](https://github.com/Emil-Gasparyan/morning-desk)
 
 A news briefing you listen to instead of scroll. Each user chooses their topics, the outlets they trust and when they listen. The app collects the latest headlines, turns them into a short podcast-style script and records it as audio.
 
